@@ -1,0 +1,25 @@
+<html>
+ <head></head>
+ <body>
+  <doctype! html> 
+   <title>@dragon</title> 
+   <form> 
+    <button type="button" name="useless" onclick="alert('This button is useless')">useless</button>
+    <br>
+    <br> 
+    <button type="submit" name="submit" onclick="alert ('This button is not working because like all of u know it is a test')">submit button</button>
+    <br>
+    <br> 
+    <label for="Name">Name</label>
+    <br>
+    <br> 
+    <input name="name">
+    <br>
+    <br> 
+    <button type="reset" name="reset" onclick="alert('this button will reset your typed word or anything you have typed')">reset button</button>
+    <br>
+    <br> 
+   </form> 
+  </doctype!>
+ </body>
+</html>
